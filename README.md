@@ -60,7 +60,7 @@
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Kiffy2025/Active-Directory--Simulation.git) |
 | 03-AWS-development | Configuring and hardening Cloud console in AWS | [View Repo](https://github.com/Kiffy2025/AWS---Cloud-Security-Project-Configuring-and-hardening-Cloud-console-in-AWS.git) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
-| 05-Vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
+| 05-Vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Kiffy2025/vulnerability-assessment-Network-and-Webapp-scanning-using-Nessus-and-Nmap.git) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
