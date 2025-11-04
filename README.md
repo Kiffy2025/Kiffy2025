@@ -63,7 +63,7 @@
 | 05-Vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Kiffy2025/vulnerability-assessment-Network-and-Webapp-scanning-using-Nessus-and-Nmap.git) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](https://github.com/Kiffy2025/Risk-Assessment-Report-AcmeCloud-SaaS-Platform.git) |
-| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
+| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Kiffy2025/Threat-Hunting-Framework-Mapping.git) |
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/Kiffy2025/Phishing-Security-Simulation.git) |
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
