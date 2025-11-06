@@ -65,7 +65,7 @@
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](https://github.com/Kiffy2025/Risk-Assessment-Report-AcmeCloud-SaaS-Platform.git) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Kiffy2025/Threat-Hunting-Framework-Mapping.git) |
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/Kiffy2025/Phishing-Security-Simulation.git) |
-| 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
+| 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/Kiffy2025/Phishing-Email-Forensics.git) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
