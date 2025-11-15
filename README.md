@@ -61,7 +61,7 @@
 | 03-AWS-development | Configuring and hardening Cloud console in AWS | [View Repo](https://github.com/Kiffy2025/AWS---Cloud-Security-Project-Configuring-and-hardening-Cloud-console-in-AWS.git) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Kiffy2025/Security-policy-dev-.git) |
 | 05-Vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Kiffy2025/vulnerability-assessment-Network-and-Webapp-scanning-using-Nessus-and-Nmap.git) |
-| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/Kiffy2025/Network-monitoring-Log-Analysis.git) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](https://github.com/Kiffy2025/Risk-Assessment-Report-AcmeCloud-SaaS-Platform.git) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Kiffy2025/Threat-Hunting-Framework-Mapping.git) |
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/Kiffy2025/Phishing-Security-Simulation.git) |
