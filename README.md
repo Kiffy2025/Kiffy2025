@@ -68,7 +68,7 @@
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/Kiffy2025/Phishing-Email-Forensics.git) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/Kiffy2025/linux-permissions-audit.git) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
-| 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+| 13-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/Kiffy2025/malware-analysis---Static-and-dynamic-malware-triage.git) |
 |
 
 ---
