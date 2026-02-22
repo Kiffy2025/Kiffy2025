@@ -69,7 +69,7 @@
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/Kiffy2025/linux-permissions-audit.git) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/Kiffy2025/SQL-Injection-DDoS-Simulation-.git) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/Kiffy2025/malware-analysis---Static-and-dynamic-malware-triage.git) |
-| 14-Manual File Extraction | HTTP Traffic - PCAP | [View Repo](https://github.com/Kiffy2025/Digital-Forensics-Capture-the-File-CTF-Report.git) |
+| 14-Manual File Extraction | HTTP Traffic-PCAP; Capture-the-File-CTF-Report | [View Repo](https://github.com/Kiffy2025/Digital-Forensics-Capture-the-File-CTF-Report.git) |
 
 ---
 
